@@ -32,15 +32,3 @@ if final == -1:
 else:
 	print("The number " + str(number_to_find) + " was found at index position " + str(final) + ".")
 
-
-# total_number_of_elements = len(data)
-# median_index = (total_number_of_elements//2)
-# part1 = data[0:median_index]
-# part2 = data[median_index+1:]
-# print(part1,part2)
-
-# while True:
-#     if data[median_index] == number:
-#         print(f"Index number of {number} is {median_index}.")
-#     elif :
-        

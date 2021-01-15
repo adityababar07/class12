@@ -22,7 +22,7 @@ label = 'Aditya')
 
 rects2 = plt.bar(index, avinash, bar_width,
 alpha = opacity,
-color = 'g',
+color = 'r',
 label = 'Avinash')
 
 plt.xlabel('Person')
