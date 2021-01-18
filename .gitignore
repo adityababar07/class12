@@ -1,0 +1,17 @@
+languagepacks.json
+.vscode
+Backups
+blob_storage
+Cache
+CachedData
+CachedExtensions
+Code Cache
+GPUCache
+logs
+Session Storage
+User
+machineid
+Network Persistent State
+rapid_render.json
+storage.json
+TransportSecurity
